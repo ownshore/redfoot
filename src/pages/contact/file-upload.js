@@ -46,7 +46,8 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>File Upload</h1>
+              <h1>Job Application</h1>
+              <p>Please enter your name and upload your cv and we will get in contact with you shortly</p>
               <form
                 name="file-upload"
                 method="post"
