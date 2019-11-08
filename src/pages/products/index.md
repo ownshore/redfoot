@@ -20,6 +20,7 @@ intro:
     have a full and comprehensive understanding of all our client schools, we
     make on-site visits to view the schools and meet the students.
 
+
     Redfoot Recruitment offer a consultative approach to all of our client
     schools and are committed towards developing long-term recruitment
     partnership, in order to provide them with effective staffing solutions. 
