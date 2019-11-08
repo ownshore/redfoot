@@ -37,12 +37,45 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: School
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Redfoot Education helps schools, nurseries, colleges and academies fill the
+    increasing demand for quality teacher and teaching assistant staff needed
+    today.
+
+    We understand that every school is different and in order to ensure that we
+    have a full and comprehensive understanding of all our client schools, we
+    make on-site visits to view the schools and meet the students.
+
+    Redfoot Recruitment offer a consultative approach to all of our client
+    schools and are committed towards developing long-term recruitment
+    partnership, in order to provide them with effective staffing solutions. 
+
+    One of our experienced consultants will work with you to help provide a
+    specialist for the following:
+
+    - EYFS, KS1 & KS2 Teachers
+
+    - Secondary Teachers
+
+    - FE Teachers
+
+    - SEND and Specialist Teachers
+
+    All support staff, including Early Years Educators, Teaching Assistants,
+    Cover Supervisors, Exam Invigilators, and Administrators
+
+    Vetting and Compliance
+
+    As part of our commitment to inspiring better education, we carry out
+    stringent vetting procedures on all registered staff. Candidates are vetted
+    in accordance with the latest industry guidelines on safeguarding and
+    recruitment practice (including the DfE, BIS, DBS and REC).
+
+    If you would like to see the calibre of teachers we have available for a
+    specific long term or permanent vacancy at your school, please email your
+    request to vacancy@theredfoot.co.uk and one of our team will provide a free
+    shortlist of available teachers.
 main:
   heading: Great coffee with no compromises
   description: >
