@@ -89,13 +89,13 @@ intro:
     One of our experienced consultants will work with you to help provide a
     specialist for the following:
 
-    ..*EYFS, KS1 & KS2 Teachers
+    - EYFS, KS1 & KS2 Teachers
 
-    ..*Secondary Teachers
+    - Secondary Teachers
 
-    ..*FE Teachers
+    - FE Teachers
 
-    ..*SEND and Specialist Teachers
+    - SEND and Specialist Teachers
 
 
     All support staff, including Early Years Educators, Teaching Assistants,
