@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/happy-workplace.eb789b37.jpg
-heading: Great coffee with a conscience
+title: RedFoot Education Recruitment
+image: /img/education.jpg
+heading: RedFoot Education Recruitment
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why RedFoot Education?
+  description: >-
+    We love what we do - We are there if you need any support - We listen and
+    care about your requirements
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Redfoot Education helps schools, nurseries, colleges and academies fill the
+  increasing demand for quality teacher and teaching assistant staff needed
+  today.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -47,10 +44,9 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    RedFoot Education helps schools, nurseries, colleges and academies fill the
+    increasing demand for quality teacher and teaching assistant staff needed
+    today.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +64,4 @@ main:
     alt: Coffee beans
     image: /img/happy-workplace.eb789b37.jpg
 ---
+
