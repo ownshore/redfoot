@@ -87,9 +87,8 @@ intro:
         and recruitment practice (including the DfE, BIS, DBS and REC).
   heading: What we offer
   description: >
-    RedFoot Education helps schools, nurseries, colleges and academies fill the
-    increasing demand for quality teacher and teaching assistant staff needed
-    today.
+    RedFoot Education helps schools, nurseries and colleges fill the increasing
+    demand for quality teacher and teaching assistant staff needed today.
 main:
   heading: Great coffee with no compromises
   description: >
