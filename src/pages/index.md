@@ -50,6 +50,9 @@ intro:
         https://www.gov.uk/guidance/qualified-teacher-status-qts
     - image: /img/school.jpg
       text: >
+        School
+
+
         We understand that every school is different and in order to ensure that
         we have a full and comprehensive understanding of all our client
         schools, we make on-site visits to view the schools and meet the
